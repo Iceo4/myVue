@@ -95,7 +95,6 @@ export default {
 </style>
 
 <style>
-@import url('../assets/markdown-github.css');
 .marginSpan {
     margin: 0 0.5rem;
 }

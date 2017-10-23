@@ -45,7 +45,6 @@ export default {
 </script>
 
 <style scoped>
-@import url("https://cdn.bootcss.com/element-ui/1.2.8/theme-default/index.css");
 .head {
     background: #324057;
     height: 3.6rem;
